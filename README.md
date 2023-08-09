@@ -9,8 +9,8 @@ python -m venv .env
 source .env/bin/activate
 pip install -r requirements.txt
 python step1_tokens.py
+deactivate
 ...
-```
 
 
 # Notes
